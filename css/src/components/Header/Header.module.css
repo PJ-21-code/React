@@ -6,3 +6,11 @@
   padding: 10px 20px;
   margin: 5px;
 }
+
+.btn{
+  background-color:yellowgreen;
+  color:black; 
+}
+.logo{
+  text-decoration: underline;
+}
